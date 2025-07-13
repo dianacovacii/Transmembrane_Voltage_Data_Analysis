@@ -9,7 +9,8 @@ Main features:
 - Saves processed outputs (graphs, values, and stats) to a '.xlsx' file in the same folder.
 
 How to use: 
-Open the notebook in Google Colab, specify the folder to be analysed from your personal Google Drive and run each cell sequentially.
+Open the notebook in Google Colab, specify the folder to be analysed from your personal Google Drive and run each cell sequentially. 
+Note: Any incompatible or unreadable files will be marked by 'NaN' values in all fields of the resulting '.xlsx' file.
 
 Background: 
 This project was created as part of a biophysics research lab, where sensor data needed to be processed efficiently to extract meaningful insights. 
